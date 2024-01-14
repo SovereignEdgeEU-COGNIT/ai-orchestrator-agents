@@ -1,0 +1,7 @@
+README.md
+setup.py
+envclient.egg-info/PKG-INFO
+envclient.egg-info/SOURCES.txt
+envclient.egg-info/dependency_links.txt
+envclient.egg-info/requires.txt
+envclient.egg-info/top_level.txt
